@@ -1,4 +1,4 @@
-# 👋 Hello, I'm David! 
+# 👋 Hello, I'm David!
 
 ![Banner Image](https://drive.google.com/file/d/1I36i1vrMbz99HUBGptZRjkTVvBlpuhi8/view?usp=sharing)
 
@@ -31,7 +31,7 @@ I'm a passionate Full-stack Developer 🚀 from Jakarta, Indonesia with 4 years 
 ## 🌐 Let's connect!
 [<img align="left" alt="David's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />][linkedin]
 
 [website]: https://web.davidwijaya.tech/
 [twitter]: https://twitter.com/davidwijaya09
