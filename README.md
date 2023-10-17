@@ -35,7 +35,7 @@ I'm a passionate Full-stack Developer 🚀 from Jakarta, Indonesia with 4 years 
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin-indigo.svg" />][linkedin]
 
-[website]: web.davidwijaya.tech
-[twitter]: davidwijaya09
+[website]: https://web.davidwijaya.tech/
+[twitter]: [davidwijaya09](https://twitter.com/davidwijaya09)
 [linkedin]: https://www.linkedin.com/in/davidwijaya09
 
