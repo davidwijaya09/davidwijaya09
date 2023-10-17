@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David!
 
-![Banner Image](https://drive.google.com/file/d/1I36i1vrMbz99HUBGptZRjkTVvBlpuhi8/view?usp=sharing)
+![Banner Image](https://github.com/davidwijaya09/davidwijaya09/blob/main/github-header-image%20(1).png)
 
 I'm a passionate Full-stack Developer 🚀 from Jakarta, Indonesia with 4 years of experience. I love turning ideas into code and code into applications. Here's a little more about me:
 
