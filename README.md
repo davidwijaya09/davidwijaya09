@@ -17,13 +17,13 @@ I'm a passionate Full-stack Developer 🚀 from Jakarta, Indonesia with 4 years 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ### Frameworks:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat-square&logo=asp.net)
 
 ## 📊 GitHub Stats:
 
