@@ -10,6 +10,7 @@ I'm a passionate Full-stack Developer 🚀 from Jakarta, Indonesia with 4 years 
 - 📫 How to reach me: [Davidwijaya0801@gmail.com](mailto:Davidwijaya0801@gmail.com).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love playing basketball 🏀.
+- Portfolio : https://shorturl.at/yGHT2
 
 ## 🛠️ My Skills 
 
